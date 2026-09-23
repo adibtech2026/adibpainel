@@ -1,0 +1,6 @@
+{
+  "name": "LogSLA Pro - Ciclo de Viagens & Metas",
+  "description": "Painel analítico de ciclo de viagens, gestão de metas de SLA e controle operacional logístico com telemetria para as revendas ADIB - Matriz e ADIB - Vera Cruz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
